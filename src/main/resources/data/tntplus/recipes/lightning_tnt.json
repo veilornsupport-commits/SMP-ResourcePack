@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" R ", "TNT", " R "],
+  "key": {
+    "T": { "item": "minecraft:tnt" },
+    "R": { "item": "minecraft:lightning_rod" }
+  },
+  "result": {
+    "id": "tntplus:lightning_tnt",
+    "count": 1
+  }
+}
