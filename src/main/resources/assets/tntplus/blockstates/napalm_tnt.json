@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "tntplus:block/napalm_tnt" }
+  }
+}
