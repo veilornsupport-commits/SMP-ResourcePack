@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "tntplus:block/lightning_tnt" }
+  }
+}
