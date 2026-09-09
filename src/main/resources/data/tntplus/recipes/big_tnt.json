@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["TNT", "TNT", "TNT"],
+  "key": {
+    "T": { "item": "minecraft:tnt" }
+  },
+  "result": {
+    "id": "tntplus:big_tnt",
+    "count": 3
+  }
+}
