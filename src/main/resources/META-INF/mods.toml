@@ -3,22 +3,22 @@ loaderVersion="[52,)"
 license="MIT"
 
 [[mods]]
-modId="tntexpansion"
+modId="tntplus"
 version="1.0.0"
 displayName="TNT Expansion"
-authors="Veilorn"
-description='''Adds powerful TNT variants to Minecraft Forge 1.21.1.'''
+authors="veilornsupport-commits"
+description='Adds powerful custom TNT variants to Minecraft Forge 1.21.1.'
 
-[[dependencies.tntexpansion]]
+[[dependencies.tntplus]]
 modId="forge"
-mandatory=true
+type="required"
 versionRange="[52,)"
 ordering="NONE"
 side="BOTH"
 
-[[dependencies.tntexpansion]]
+[[dependencies.tntplus]]
 modId="minecraft"
-mandatory=true
+type="required"
 versionRange="[1.21.1,1.22)"
 ordering="NONE"
 side="BOTH"
