@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" F ", "TNT", " F "],
+  "key": {
+    "T": { "item": "minecraft:tnt" },
+    "F": { "item": "minecraft:flint_and_steel" }
+  },
+  "result": {
+    "id": "tntplus:napalm_tnt",
+    "count": 1
+  }
+}
